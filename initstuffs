@@ -1,0 +1,8 @@
+$ curl -sS https://getcomposer.org/installer | php
+$ mv composer.phar /usr/local/bin/composer
+
+------
+composer init  --> create the composer.json
+composer install --> create the vendor folder with all the frameworks 
+bin/behat --init  --> this one create "the feature" folder
+
